@@ -102,6 +102,7 @@
     border-radius: 999px;
     transform: rotate(-1deg);
     position: sticky;
+    top: 0;
   }
   .cover__tagline {
     font-size: clamp(1rem, 2.5vw, 1.25rem);
